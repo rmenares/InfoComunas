@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "..\\RegionComunaAPi\\RegionComunaAPi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\RegionComunasMVC\\RegionComunasMVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
